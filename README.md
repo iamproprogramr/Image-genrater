@@ -37,7 +37,7 @@ Here are a few examples of generated images:
 
 Check out the video demonstration of the output on LinkedIn:
 
-[LinkedIn Video](https://www.linkedin.com/video_url)
+[LinkedIn Video](https://www.linkedin.com/posts/yousaf-khurram-9535b130b_ai-texttoimage-innovation-activity-7205948476134764544-vXXb?utm_source=share&utm_medium=member_desktop)
 
 For further details and collaboration, feel free to contact me via email.
 
